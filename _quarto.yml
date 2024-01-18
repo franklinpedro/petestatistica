@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "pet estatística"
+  title: "Pet Estatística"
   navbar:
     left:
       - href: index.qmd

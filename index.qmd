@@ -1,5 +1,5 @@
 ---
-title: "pet estatística"
+title: "Pet Estatística"
 ---
 
 This is a Quarto website.
